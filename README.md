@@ -29,4 +29,4 @@
   - [ruRU]: Для ру клиента, патч нужно переименовать, добавив -ruRU в название и перенести в папку \Data\ruRU. (patch-ruRU-X.mpq)
   - Replace a X by free letter if it's already exist.
 
-Special thanx: Ruswon - for tests and ideas.
+Special thanx: Ruswon - for tests and ideas. 
