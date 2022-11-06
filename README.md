@@ -26,7 +26,6 @@
 <h5 align="left">Misc</h5>
 
   - Patch support only Russian (ruRU) and English (enUS/enGB) client.
-  - [ruRU]: Для ру клиента, патч нужно переименовать, добавив -ruRU в название и перенести в папку \Data\ruRU. (patch-ruRU-X.mpq)
   - Replace a X by free letter if it's already exist.
   - Disable you GearScore addon, patchkit have this function.
 
