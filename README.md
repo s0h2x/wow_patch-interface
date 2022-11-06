@@ -21,7 +21,7 @@
 
   - Download patch
   - Move patch-X.mpq file to the Data folder
-  - Move pretty_patchmanager file to the AddOns folder
+  - Move pretty_patchkit file to the AddOns folder
 
 <h5 align="left">Misc</h5>
 
